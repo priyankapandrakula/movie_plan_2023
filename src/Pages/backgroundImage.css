@@ -1,0 +1,18 @@
+.containerUnique{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-movie-ticket-cinema-promotion-banner-image_189804.jpg");
+    height: 31pc;
+    opacity: .8;
+}
+
+.containerUnique2{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-movie-ticket-cinema-promotion-banner-image_189804.jpg");
+    height: 38pc;
+    opacity: .8;
+    background-size: cover;
+}
+.containerUnique3{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-movie-ticket-cinema-promotion-banner-image_189804.jpg");
+    height: 41pc;
+    opacity: .8;
+    background-size: cover;
+}
