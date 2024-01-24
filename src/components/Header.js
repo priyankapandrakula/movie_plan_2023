@@ -18,7 +18,7 @@ const Header = () => {
       return (
         <>
         <Link to="/sign-in" className={`text-success nav-link `}>
-          Sign in
+          Sign In
         </Link>
         <Link
             to="/cart"
